@@ -1,4 +1,24 @@
-nginx
-kasmweb/nginx:1.25.3
+nginx:latest
+iyuucn/iyuuplus-dev:latest
+shenxianmq/auto_symlink:latest
+rclone/rclone:latest
+portainer/portainer-ee:latest
+p3terx/aria2-pro:latest
+adguard/adguardhome:latest
+lswl/vertex:latest
+linuxserver/transmission:4.0.5
+whyour/qinglong:2.17.3
+linuxserver/qbittorrent:4.5.2
+chishin/nginx-proxy-manager-zh:latest
+jxxghp/moviepilot:latest
+jlesage/mediainfo:v24.02.1
+halcyonazure/lsky-pro-docker:latest
+nyanmisaka/jellyfin:latest
+homeassistant/home-assistant:latest
+linuxserver/emby:4.8.3
+jeessy/ddns-go:latest
+easychen/cookiecloud:latest
+vaultwarden/server:latest
+authelia/authelia:4.37
 xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
+cloudnas/clouddrive2:latest
